@@ -9,7 +9,7 @@ function HomePage() {
                 <img style={{height: '20%', width: '20%',display:'block', marginLeft:'auto', marginRight:'auto'}} alt="LAWYER INC LOGO" src={require('../resources/images/lawyer_logo.jpg')} />
                 <br/><br/>
                 <p className='blockquote' style={{display:'block',marginLeft:'auto', marginRight:'auto'}}>
-                    Using this application you will be able to locate lawyers based on the ind of law, proximity, fee range, number of
+                    Using this application you will be able to locate lawyers based on the kind of law, proximity, fee range, number of
                     cases solved and can also contact them. Lawyers can enlist themselves or their firms and can be exposed to a much
                     wider group of clients. Things like getting a license, making drafts, consulting an appropriate lawyer, finding a
                     lawyer best suited to your purpose and budget shall no more be a herculean task.
